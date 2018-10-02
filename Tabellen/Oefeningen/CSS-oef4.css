@@ -1,0 +1,20 @@
+table{
+  border-collapse: collapse;
+  height: 800px;
+  width: 800px;
+}
+td{
+  border: solid 3px black;
+}
+.rood{
+  background-color: red;
+}
+.blauw{
+  background-color: blue;
+}
+.groen{
+  background-color: green;
+}
+.geel{
+  background-color: yellow;
+}

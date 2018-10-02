@@ -1,0 +1,25 @@
+.titel{
+  text-align: center;
+  border: 2px solid red;
+  color: red;
+  background-color: white;
+  padding: 20px;
+  width: 400px;
+}
+h2{
+  font-weight: bold;
+}
+article{
+  width: 400px;
+  margin: 2px;
+}
+.playlist{
+  background-color: green;
+}
+.Albums{
+  background-color: yellow;
+}
+.festivals
+{
+  background-color: blue;
+}

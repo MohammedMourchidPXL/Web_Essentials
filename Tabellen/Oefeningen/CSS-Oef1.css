@@ -1,0 +1,34 @@
+thead, tfoot{
+  background-color: #27426d;
+}
+table{
+  border: solid #c7ced8 10px;
+  color: white;
+  table-layout: auto;
+  font-family: Arial;
+  font-size: small;
+  border-collapse: collapse;
+}
+tfoot td{
+  text-align: center;
+}
+th{
+  font-weight: normal;
+  border-color: black;
+  width: 100px;
+}
+tbody tr:nth-child(odd){
+  background-color: #4f8cef;
+}
+tbody tr:nth-child(even){
+  background-color: #6facff;
+}
+tbody{
+  text-align: center;
+}
+ th, td{
+  border: 1px solid black;
+}
+
+
+
